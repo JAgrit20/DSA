@@ -1,2 +1,2 @@
 # DSA
- all my DSA prcatice  code
+ all my DSA practice algorithms in C++
