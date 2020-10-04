@@ -1,2 +1,2 @@
 # DSA
- all my DSA practice algorithms in C++
+ DSA practice algorithms in C++
